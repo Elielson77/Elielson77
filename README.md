@@ -2,6 +2,8 @@
 
 I'm a frontend developer, learning constantly about web development and computer networks.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elielson77&hide_progress=true&theme=radical)
+
 <!--
 **Elielson77/Elielson77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
